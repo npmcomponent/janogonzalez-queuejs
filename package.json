@@ -1,26 +1,11 @@
 {
-  "name": "queuejs",
-  "version": "0.1.0",
+  "name": "janogonzalez-queuejs",
   "description": "a simple queue data structure",
-  "author": "Jano González <info@janogonzalez.com>",
-  "devDependencies": {
-    "mocha": "*",
-    "expect.js": "*"
-  },
-  "readmeFilename": "README.md",
-  "main": "index.js",
-  "dependencies": {
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/janogonzalez/queuejs.git"
-  },
+  "version": "0.1.0",
   "keywords": [
     "queue",
     "data structure"
   ],
+  "dependencies": {},
   "license": "MIT"
 }
